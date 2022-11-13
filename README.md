@@ -1,6 +1,6 @@
 # USE A CABEÇA PROGRAMAÇÃO
 
-- [] Cap1 - Começando a codificar
+- [x] Cap1 - Começando a codificar
 - [] Cap2 - Dados textuais: Cada string tem seu lugar
 - [] Cap3 - Funções: Sejamos organizados.
 - [] Cap4 - Dados em arquivos e array: Classifique
